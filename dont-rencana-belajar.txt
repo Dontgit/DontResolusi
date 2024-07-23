@@ -6,3 +6,4 @@ Rencana Belajar Dontmakeawish
   - Belajar untuk mencari universitas
   - Belajar Bahasa Inggris
   - Mencari Beasiswa
+  - Belajar Type Script
