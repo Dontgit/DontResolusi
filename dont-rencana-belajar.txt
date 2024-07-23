@@ -8,3 +8,4 @@ Rencana Belajar Dontmakeawish
   - Mencari Beasiswa
   - Belajar Type Script
   - Belajar Vue JS
+  - Belajar Kotlin
