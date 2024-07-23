@@ -7,4 +7,5 @@ Rencana Belajar Dontmakeawish
   - Belajar Bahasa Inggris
   - Mencari Beasiswa
   - Belajar Type Script
+  - Belajar Vue JS
   - Belajar Kotlin
