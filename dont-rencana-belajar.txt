@@ -1,5 +1,7 @@
 Rencana Belajar Dontmakeawish
   - Belajar React Advenced
+    * Belajar React SSR
+    * Belajar di yutub
   - Belajar Laravel Advenced
   - Belajar untuk mencari universitas
   - Belajar Bahasa Inggris
